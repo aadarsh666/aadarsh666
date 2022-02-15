@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning **Full Stock Development.**
+- 🔭 I’m currently learning **Full Stack Development.**
 
 - 👨‍💻 I’m currently working on **Python.** 
 
